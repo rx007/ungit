@@ -38,7 +38,7 @@
     "just-detect-adblock": "~1.0.0",
     "knockout": "~3.5.0",
     "locks": "~0.2.2",
-    "lodash": "~4.17.11",
+    "lodash": "~4.17.21",
     "memorystore": "~1.6.1",
     "mkdirp": "~0.5.1",
     "moment": "~2.24.0",
