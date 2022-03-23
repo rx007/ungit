@@ -40,7 +40,7 @@
     "locks": "~0.2.2",
     "lodash": "~4.17.11",
     "memorystore": "~1.6.1",
-    "mkdirp": "~0.5.1",
+    "mkdirp": "~0.5.2",
     "moment": "~2.24.0",
     "node-cache": "~4.2.0",
     "npm": "~6.9.1-next.0",
