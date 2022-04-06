@@ -41,7 +41,7 @@
     "lodash": "~4.17.11",
     "memorystore": "~1.6.1",
     "mkdirp": "~0.5.1",
-    "moment": "~2.24.0",
+    "moment": "~2.29.2",
     "node-cache": "~4.2.0",
     "npm": "~6.9.1-next.0",
     "npm-registry-client": "~8.6.0",
