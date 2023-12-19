@@ -43,7 +43,7 @@
     "mkdirp": "~0.5.1",
     "moment": "~2.24.0",
     "node-cache": "~4.2.0",
-    "npm": "~6.9.1-next.0",
+    "npm": "~7.0.0",
     "npm-registry-client": "~8.6.0",
     "nprogress": "^0.2.0",
     "octicons": "3.5.0",
@@ -58,7 +58,7 @@
     "signals": "~1.0.0",
     "snapsvg": "~0.5.1",
     "socket.io": "~2.2.0",
-    "superagent": "~5.0.5",
+    "superagent": "~7.0.2",
     "temp": "~0.9.0",
     "winston": "2.4.0",
     "yargs": "~13.2.2"
