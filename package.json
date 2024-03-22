@@ -43,7 +43,7 @@
     "mkdirp": "~0.5.1",
     "moment": "~2.24.0",
     "node-cache": "~4.2.0",
-    "npm": "~6.9.1-next.0",
+    "npm": "~7.0.0",
     "npm-registry-client": "~8.6.0",
     "nprogress": "^0.2.0",
     "octicons": "3.5.0",
