@@ -28,7 +28,7 @@
     "dedent": "^0.7.0",
     "diff2html": "~2.8.0",
     "dnd-page-scroll": "0.0.4",
-    "express": "~4.16.4",
+    "express": "~4.19.2",
     "express-session": "~1.16.1",
     "getmac": "~1.4.6",
     "hasher": "~1.2.0",
